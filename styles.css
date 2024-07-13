@@ -1,0 +1,81 @@
+
+.pay-now-btn {
+    padding-right: 30px;
+    padding-left: 18px;
+    padding-top: 7px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Roboto;
+    font-size: 15px;
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    color: #007bff;
+    cursor: pointer;
+    border: solid;
+    border-color: #007bff;
+    transition: background-color 0.19s, color 0.19s;
+}
+.pay-now-btn-qr {
+    padding-right: 30px;
+    padding-left: 50px;
+    padding-top: 7px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Roboto;
+    font-size: 15px;
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    color: #007bff;
+    cursor: pointer;
+    border: solid;
+    border-color: #007bff;
+    transition: background-color 0.19s, color 0.19s;
+}
+.pay-now-btn:hover{
+    background-color: #007bff;
+    color: #fff;
+}
+.pay-now-btn-qr:hover{
+    background-color: #007bff;
+    color: #fff;
+}
+.pay-now-btn-sub {
+    padding-right: 0px;
+    padding-left: 6px;
+    padding-top: 3px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Roboto;
+    font-size: 15px;
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+    height: 35px;
+    width: 120px;
+    border-radius: 5px;
+    color: #007bff;
+    cursor: pointer;
+    border: solid;
+    border-color: #007bff;
+    transition: background-color 0.19s, color 0.19s;
+}
+.pay-now-btn-sub:hover{
+    background-color: #007bff;
+    color: #fff;
+}
+.center-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.card_dets{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family:"Arial"
+}
+
